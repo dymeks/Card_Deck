@@ -664,31 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eclai\\.nuget\\packages\\": {},
+    "C:\\Users\\NORSEMAN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "c:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
+      "projectUniqueName": "C:\\Users\\NORSEMAN\\Desktop\\DojoAssignments\\C#\\C# Basic\\Hacking Cards\\Card_Deck\\Card_Deck.csproj",
       "projectName": "Card_Deck",
-      "projectPath": "c:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
-      "packagesPath": "C:\\Users\\eclai\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
-      "projectName": "Card_Deck",
-      "projectPath": "C:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
-      "packagesPath": "C:\\Users\\eclai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\obj\\",
->>>>>>> dealer_update
+      "projectPath": "C:\\Users\\NORSEMAN\\Desktop\\DojoAssignments\\C#\\C# Basic\\Hacking Cards\\Card_Deck\\Card_Deck.csproj",
+      "packagesPath": "C:\\Users\\NORSEMAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NORSEMAN\\Desktop\\DojoAssignments\\C#\\C# Basic\\Hacking Cards\\Card_Deck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\eclai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\NORSEMAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

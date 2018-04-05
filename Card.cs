@@ -21,5 +21,9 @@ namespace Card_Deck
             val = val;
         }
 
+        public override string ToString(){
+            return $"{stringVal} of {suit}";
+        }
+
     }
 }
