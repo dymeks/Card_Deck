@@ -82,6 +82,17 @@ namespace Card_Deck
                 
             }
         }
+
+        public void blackJackVals()
+        {
+            foreach(Card card in cards)
+            {
+                if(card.val > 10)
+                {
+                    card.val = 10;
+                }
+            }
+        }
     }
      
 }

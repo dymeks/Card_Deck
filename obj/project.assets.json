@@ -670,11 +670,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "c:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
       "projectName": "Card_Deck",
       "projectPath": "c:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
       "packagesPath": "C:\\Users\\eclai\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
+      "projectName": "Card_Deck",
+      "projectPath": "C:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\Card_Deck.csproj",
+      "packagesPath": "C:\\Users\\eclai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eclai\\Desktop\\DojoAssignments\\netCore\\Card_Deck\\obj\\",
+>>>>>>> dealer_update
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

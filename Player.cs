@@ -9,15 +9,21 @@ namespace Card_Deck
         public string name;
         public List<Card> hand = new List<Card>();
 
+        public int handtotal = 0;
+
         public Player(string name = "buddy")
         {
             this.name = name;
+
         }
 
         public Card draw(Deck deck)
         {
             Card drawn = deck.deal();
             hand.Add(drawn);
+
+            handtotal += drawn.val;
+
             return drawn;
         }
 
@@ -33,6 +39,12 @@ namespace Card_Deck
             }
             
 
+        }
+
+        public void clearHand()
+        {
+            hand.Clear();
+            handtotal = 0;
         }
     }
 }
