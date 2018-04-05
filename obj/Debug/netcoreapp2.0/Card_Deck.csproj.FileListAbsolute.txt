@@ -1,0 +1,10 @@
+C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.csproj.CoreCompileInputs.cache
+C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.AssemblyInfoInputs.cache
+C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.AssemblyInfo.cs
+C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.deps.json
+C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.runtimeconfig.json
+C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.runtimeconfig.dev.json
+C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.dll
+C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.pdb
+C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.dll
+C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.pdb
