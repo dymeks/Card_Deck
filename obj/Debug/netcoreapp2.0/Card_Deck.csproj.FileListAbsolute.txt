@@ -8,3 +8,13 @@ C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck
 C:\Users\susie\Documents\c#_projects\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.pdb
 C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.dll
 C:\Users\susie\Documents\c#_projects\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.pdb
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.deps.json
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.runtimeconfig.json
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.runtimeconfig.dev.json
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.dll
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\bin\Debug\netcoreapp2.0\Card_Deck.pdb
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.csproj.CoreCompileInputs.cache
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.AssemblyInfoInputs.cache
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.AssemblyInfo.cs
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.dll
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Hacking Cards\Card_Deck\obj\Debug\netcoreapp2.0\Card_Deck.pdb
