@@ -1,5 +1,9 @@
 {
   "version": 1,
-  "dgSpecHash": "p7H780n+4mlZCyx6nXqwB87J+B0ADxJ/pmo7u6fxnDYg5WvxCkW0RwSoxy+80mAYMZHi1OU/+FaHMWuvR70saA==",
+<<<<<<< HEAD
+  "dgSpecHash": "s5KVYHmT1V6qVs+LvdolPYB3s4tLJtRqIl0hXo+Pl0ySe04ldj0GViROeIW5KhL7GZoZbE+louAORUTjQ4NQLw==",
+=======
+  "dgSpecHash": "1Az4qfj/8mkqEigfjGbfsjG0j9spLZc/8BbZEKussQCo60SAaDb5D4WzaGeUgwbthGPt+Ui80MUHMDOnjzOpLg==",
+>>>>>>> dealer_update
   "success": true
 }
